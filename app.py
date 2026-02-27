@@ -69,6 +69,7 @@ allowed_origins = [
     "https://service.theelefit.com",
     "https://yantraprise.com",
     "https://*.netlify.app",
+    "https://nextjs-elefit-git-v1-elefits-projects.vercel.app",
     "https://cheery-empanada-81a465.netlify.app"
 ]
 
