@@ -70,7 +70,8 @@ allowed_origins = [
     "https://yantraprise.com",
     "https://*.netlify.app",
     "https://nextjs-elefit-git-v1-elefits-projects.vercel.app",
-    "https://cheery-empanada-81a465.netlify.app"
+    "https://cheery-empanada-81a465.netlify.app",
+    "https://nextjs-elefit-rj77qbo00-elefits-projects.vercel.app"
 ]
 
 
